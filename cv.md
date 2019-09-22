@@ -7,7 +7,9 @@
 
 * Basic knowledge HTML and CSS, elementary knowledge JS.
 
-* Code examples ```javascript 
+* Code examples 
+
+```javascript 
 function basicOp(operation, value1, value2)
 {
   switch (operation) {
@@ -26,5 +28,6 @@ function basicOp(operation, value1, value2)
 
 * No development experience 
 
+* I study at the BSU at the Faculty of Philosophy and Social Sciences. My specialty is philosophy. Interestingly, logic, part of philosophy, is the basis of programming. Perhaps, understanding the logic of the language, you can not experience significant difficulties in its development. Also taking HTML, CSS, and JS courses on Codeacademy.
 
-
+* My English is at the level of understanding the text. Spoken is very bad because there was no practice. 
