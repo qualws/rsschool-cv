@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #48dbcf;
+}
+
+.full_content {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 5px 20px 0;
+}
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #c7b3b3;
+    text-align: center;
+}
+h1 {
+    margin: 5px 0;
+    text-align: center;
+}
+
+h2 {
+    margin: 5px 0;
+}
+
+p {
+    margin: 15px;
+}
+
+li {
+    margin-left: 30px;
+    padding-left: 0;
+}
+
+footer {
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+
+footer > p {
+    margin: 0;
+    text-align: center;
+}
